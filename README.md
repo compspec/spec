@@ -7,7 +7,7 @@
 
 Compspec (Composition spec) is a specification and model for comparing things. This means
 that we take an abstract and simple approach to model complex systems as graphs (nodes
-and relaionshps) and then can compare between graphs (defined by the [diffspec](diffspec.md)
+and relaionshps) and then can compare between graphs (defined by the [diffspec](spec.md#rules)
 or extract corpora (groups of facts) to use later. To continue your exploration, you
 might want to read about:
 
