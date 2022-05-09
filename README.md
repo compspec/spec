@@ -1,6 +1,6 @@
 # Composition Specs (compspec)
 
-![img/compspec.png](img/compspec.png)
+![img/compspec-circle.png](img/compspec-circle.png)
 
 Compspec (Composition spec) is a specification and model for comparing things. This means
 that we take an abstract and simple approach to model complex systems as graphs (nodes
