@@ -41,7 +41,7 @@ it might look like this:
 If you look at the above steps, you might guess the problem - our modern day tools
 like libabigail started at step 5, and as a result the process and rules are a black box and
 largely the output is "snowflake special" to libabigail and we can't easily understand,
-extend, or programatically use it.
+extend, or programmatically use it.
 
 ## Rationale
 
