@@ -10,5 +10,5 @@ that we take an abstract and simple approach to model complex systems as graphs 
 and relaionshps) and then can compare between graphs. There are several use cases here you 
 can explore:
 
- - [abi](abi): comparing application binary interfaces 
+ - [asp](asp): simple model for comparison based on answer set programming 
  - [compatibility](compatibility): assessing for compatibility

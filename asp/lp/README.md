@@ -1,4 +1,4 @@
-# Asp
+# Logic Program (lp)
 
 This is the most basic (lowest level) of comparison because we are starting
 with ASP, which will be the underlying logic (for a solve) to run any comparison.
